@@ -22,7 +22,7 @@ This GenAI agent uses advanced **language models** and **document embeddings** t
 ![Screenshot 2025-06-28 161840](https://github.com/user-attachments/assets/093a62f6-0c15-4c7d-94b0-885220f264ed)
 
 ## DEMO 
-Open the link for Demo:  https://drive.google.com/file/d/1sTxQ-_5t9sSa1qP-yI9WNiuLtog_6Duz/view?usp=drive_link
+Demo Link:  https://drive.google.com/file/d/1sTxQ-_5t9sSa1qP-yI9WNiuLtog_6Duz/view?usp=drive_link
 
 
 ## 🧠 How It Works (Flow)
