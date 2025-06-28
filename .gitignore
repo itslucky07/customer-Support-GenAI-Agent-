@@ -1,0 +1,17 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# macOS/Linux/Windows system files
+.DS_Store
+
+# IDE and environment folders
+.venv/
+.env
+.idea/
+
+# Secrets
+.env

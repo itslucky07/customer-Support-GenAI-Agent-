@@ -1,0 +1,14 @@
+ langchain
+ langchain-community
+ langchainhub
+ langchain-chroma
+ bs4
+ langchain-openai
+ lxml
+ streamlit
+ python-dotenv
+ transformers
+ torch
+ adapter-transformers
+ peft
+ 
